@@ -7,4 +7,5 @@ int main(){
     cin >> geboortedatum;
     cout << "Jouw leeftijd is: " << 2024 - geboortedatum;
 
+    return 0;
 }
