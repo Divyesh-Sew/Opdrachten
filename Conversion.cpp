@@ -7,5 +7,6 @@ int main(){
     cin >> celcius;
     cout << (celcius * 9/5) + 32 << " Farenheit";
 
+    getchar();
     return 0;
 }
